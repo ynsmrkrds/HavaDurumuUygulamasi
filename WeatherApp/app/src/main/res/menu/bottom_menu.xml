@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nearLocations"
+        android:icon="@drawable/near_locations"
+        android:title="@string/near_locations"
+        />
+
+    <item
+        android:id="@+id/nearCities"
+        android:icon="@drawable/near_cities"
+        android:title="@string/near_cities"
+        />
+</menu>
